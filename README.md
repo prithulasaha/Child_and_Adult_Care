@@ -9,7 +9,7 @@ A website for an organization that provides various types of services to childre
 ## ✨ Features
 
 ### 👶 Child Care Services
-- **Daycare & Preschooling:** Safe, nurturing, and interactive programs that support early childhood development..
+- **Daycare & Preschooling:** Safe, nurturing, and interactive programs that support early childhood development.
 - **Online Video Tutorials:** Basic education resources for kids to learn easily.
 - **Home Nanny Booking:** Professional caregivers available on demand.
 - **Online Counseling:** Professional mental health guidance tailored for children’s emotional well-being.
